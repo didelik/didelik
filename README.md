@@ -38,6 +38,6 @@ Here are some ideas to get you started:
   <img src="https://img.shields.io/badge/GitHub-000000?style=for-the-badge&logo=github&logoColor=white"/>
   <img src="https://img.shields.io/badge/C%2B%2B-00599C?style=for-the-badge&logo=c%2B%2B&logoColor=white"/>
   <img src="https://img.shields.io/badge/-CSS3-1572B6?style=for-the-badge&logo=css3"/>
-  <img src="https://flutterframework.com/wp-content/uploads/2018/04/flutter_feature_image_v2.png"/>
+  <img src="https://flutterframework.com/wp-content/uploads/2018/04/flutter_feature_image_v2.png" width="300"/>
 </div>
 <img src="https://www.animatedimages.org/data/media/562/animated-line-image-0184.gif" width="1920" />
