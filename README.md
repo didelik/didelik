@@ -16,10 +16,7 @@ Here are some ideas to get you started:
 -->
 
 
-<p align="center">
-  <a href="https://github.com/Didelik">
-    <img src="https://rare-gallery.com/mocahbig/466437-One-Punch-Man-anime-Saitama.png" alt="Didelik" title="Hi there"/></a>
-</p>
+
 
 <p align="center">
 <a href="https://github.com/Didelik">
