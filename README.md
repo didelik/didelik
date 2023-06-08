@@ -31,7 +31,7 @@ Here are some ideas to get you started:
 # Skills? <img src='https://user-images.githubusercontent.com/74038190/206662607-d9e7591e-bbf9-42f9-9386-29efc927bc16.gif' width="40"> 
 <div align="center">
    <img src="https://flutterframework.com/wp-content/uploads/2018/04/flutter_feature_image_v2.png" width="200"/>
-   <img src="https://www.nicepng.com/png/detail/23-234867_firebase-vertical-lockup-logo-firebase-logo-firebase.png" width="150"/>
+   <img src="https://www.nicepng.com/png/detail/23-234867_firebase-vertical-lockup-logo-firebase-logo-firebase.png" width="180"/>
     <br> 
   <img src="https://img.shields.io/badge/GIT-E44C30?style=for-the-badge&logo=git&logoColor=white"/>
   <img src="https://img.shields.io/badge/C-00599C?style=for-the-badge&logo=c&logoColor=white"/><br>
