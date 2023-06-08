@@ -18,7 +18,7 @@ Here are some ideas to get you started:
 
 <p align="center">
   <a href="https://github.com/Didelik">
-    <img src="https://user-images.githubusercontent.com/74038190/206688648-cf6a7268-47b1-4bf1-b6ce-84bf9fd97b38.png" alt="Didelik" title="Hi there"/></a>
+    <img src="" alt="Didelik" title="Hi there"/></a>
 </p>
 
 <p align="center">
