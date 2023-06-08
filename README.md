@@ -33,7 +33,7 @@ Here are some ideas to get you started:
    <img src="https://flutterframework.com/wp-content/uploads/2018/04/flutter_feature_image_v2.png" width="200"/>
     
   <img src="https://img.shields.io/badge/GIT-E44C30?style=for-the-badge&logo=git&logoColor=white"/>
-    <br>
+    <br> <br>
   <img src="https://img.shields.io/badge/C-00599C?style=for-the-badge&logo=c&logoColor=white"/><br>
   <img src="https://img.shields.io/badge/JavaScript-323330?style=for-the-badge&logo=javascript&logoColor=F7DF1E"/>
   <img src="https://user-images.githubusercontent.com/74038190/206675680-c2664ef5-55be-4c18-9a9a-74f09dba904f.svg"/>
