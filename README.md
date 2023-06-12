@@ -1,19 +1,28 @@
 ### OnSpot OnHold 👋
 
-<!--
-**didelik/didelik** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+<a href="https://app.daily.dev/CodingTsak"><img src="https://api.daily.dev/devcards/abd66ce965054a62b72557e23ea8455a.png?r=tye" width="400" alt="Dimitris Delikouras's Dev Card"/></a>
+<div>
 
-Here are some ideas to get you started:
+<i>&nbsp; There's nothing quite like the thrill of having your work recognized and appreciated by the community. </i><br><br>
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+🎓 &nbsp; I'm completing my Bachelor in the field of Computer Science.<br>
+
+🔥 &nbsp; Proudly active in supportive programming community.<br>
+
+🎯 &nbsp; I am continuously exploring and developing projects on cutting-edge technologies like Next.js<br>
+
+🌐 &nbsp; Working on Real World Applications using Flutter ( Dart ).<br>
+
+🚀 &nbsp; My expertise as a Full-Stack developer with a slight incline to backend.<br>
+
+😄 &nbsp; I enjoying projects and interesting ideas with fellow coders !
+
+
+</div>
+
+
+</div>
+
 
 
 
