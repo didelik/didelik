@@ -19,17 +19,15 @@
 
 <i>&nbsp; There's nothing quite like the thrill of having your work recognized and appreciated by the community. </i><br><br>
 
-🎓 &nbsp; I'm completing my Bachelor in the field of Computer Science.<br>
+👨‍🎓 &nbsp; Completed my CS degree in Athens University for economics and Business.<br>
 
 🔥 &nbsp; Proudly active in supportive programming community.<br>
 
-🎯 &nbsp; I am continuously exploring and developing projects on cutting-edge technologies like Next.js<br>
+🚀 &nbsp; Working on Real World Applications using Flutter ( Dart ).<br>
 
-🌐 &nbsp; Working on Real World Applications using Flutter ( Dart ).<br>
+💻 &nbsp; Experience with Linux system administration and dev-ops concepts.<br>
 
-🚀 &nbsp; My expertise as a Full-Stack developer with a slight incline to backend.<br>
-
-😄 &nbsp; I enjoying projects and interesting ideas with fellow coders !
+😄 &nbsp; I enjoying projects and interesting ideas with fellow coders. Team comes first tech stack comes after!
 
 
 </div>
