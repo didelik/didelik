@@ -13,7 +13,7 @@
 
 <br>
 
-<a href="https://app.daily.dev/Villex-code"><img align="left" src="https://api.daily.dev/devcards/dd392acea707444d96315bea580a61ed.png?r=p6n" width="350" alt="Villex's Dev Card"/></a>
+<a href="https://app.daily.dev/CodingTsak"><img align="left" src="https://api.daily.dev/devcards/abd66ce965054a62b72557e23ea8455a.png?r=tye" width="350" alt="Dimitris Delikouras's Dev Card"/></a>
 
 <div>
 
