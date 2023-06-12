@@ -1,6 +1,9 @@
 ### OnSpot OnHold 👋
 
-
+<p align="center">
+<a href="https://github.com/Didelik">
+    <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&center=true&weight=450&size=24&pause=800&color=70A4FC&width=440&height=45&lines=Flutter+Developer;UI+Designer;;Building+Something+Creative" /></a>
+</p>
 
 
 <!--- ------------------------------------------------------------------------------------------------------------------------------------------------------ -->
@@ -36,13 +39,6 @@
 <br><br><br>
 
 
-
-
-
-<p align="center">
-<a href="https://github.com/Didelik">
-    <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&center=true&weight=450&size=24&pause=800&color=70A4FC&width=440&height=45&lines=Flutter+Developer;UI+Designer;;Building+Something+Creative" /></a>
-</p>
 
 ![Snake animation](https://raw.githubusercontent.com/Anmol-Baranwal/Anmol-Baranwal/output/github-contribution-grid-snake-dark.svg)
 
