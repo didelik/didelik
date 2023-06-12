@@ -1,6 +1,20 @@
 ### OnSpot OnHold 👋
 
-<a href="https://app.daily.dev/CodingTsak"><img src="https://api.daily.dev/devcards/abd66ce965054a62b72557e23ea8455a.png?r=tye" width="400" alt="Dimitris Delikouras's Dev Card"/></a>
+<p align="center">
+<a href="https://github.com/Villex-code">
+    <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&center=true&weight=450&size=24&pause=800&color=70A4FC&width=440&height=45&lines=Full-stack+Web+Developer;Experienced+UI+Designer;Enjoy+Learning+Algorithms;Building+Real+World+Projects+Escaping+The+Matrix" /></a>
+</p>
+
+
+<!--- ------------------------------------------------------------------------------------------------------------------------------------------------------ -->
+<!--- -- Brief Info + Dev Card ----------------------------------------------------------------------------------------------------------------------------- -->
+<!--- ------------------------------------------------------------------------------------------------------------------------------------------------------ -->
+
+
+<br>
+
+<a href="https://app.daily.dev/Villex-code"><img align="left" src="https://api.daily.dev/devcards/dd392acea707444d96315bea580a61ed.png?r=p6n" width="350" alt="Villex's Dev Card"/></a>
+
 <div>
 
 <i>&nbsp; There's nothing quite like the thrill of having your work recognized and appreciated by the community. </i><br><br>
@@ -22,6 +36,9 @@
 
 
 </div>
+
+
+<br><br><br>
 
 
 
