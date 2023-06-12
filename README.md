@@ -1,9 +1,6 @@
 ### OnSpot OnHold 👋
 
-<p align="center">
-<a href="https://github.com/Villex-code">
-    <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&center=true&weight=450&size=24&pause=800&color=70A4FC&width=440&height=45&lines=Full-stack+Web+Developer;Experienced+UI+Designer;Enjoy+Learning+Algorithms;Building+Real+World+Projects+Escaping+The+Matrix" /></a>
-</p>
+
 
 
 <!--- ------------------------------------------------------------------------------------------------------------------------------------------------------ -->
