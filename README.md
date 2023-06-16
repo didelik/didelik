@@ -19,7 +19,7 @@
 
 <i>&nbsp; There's nothing quite like the thrill of having your work recognized and appreciated by the community. </i><br><br>
 
-👨‍🎓 &nbsp; Completed my CS degree in Athens University for economics and Business.<br>
+👨‍🎓 &nbsp; Completed my CS degree in Athens University of Εconomics and Business.<br>
 
 🔥 &nbsp; Proudly active in supportive programming community.<br>
 
