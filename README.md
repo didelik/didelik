@@ -13,8 +13,8 @@
 
 <br>
 
-<a href="https://app.daily.dev/CodingTsak"><img align="left" src="https://api.daily.dev/devcards/abd66ce965054a62b72557e23ea8455a.png?r=tye" width="350" alt="Dimitris Delikouras's Dev Card"/></a>
-
+[<a href="https://app.daily.dev/CodingTsak"><img align="left" src="https://api.daily.dev/devcards/abd66ce965054a62b72557e23ea8455a.png?r=tye" width="350" alt="Dimitris Delikouras's Dev Card"/></a>
+](https://api.daily.dev/devcards/abd66ce965054a62b72557e23ea8455a.png?r=i9x)
 <div>
 
 <i>&nbsp; There's nothing quite like the thrill of having your work recognized and appreciated by the community. </i><br><br>
