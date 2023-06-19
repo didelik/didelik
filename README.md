@@ -27,7 +27,7 @@
 
 💻 &nbsp; Experience with Linux system administration and dev-ops concepts.<br>
 
-😄 &nbsp; I enjoying projects and interesting ideas with fellow coders. Team comes first tech stack comes after!
+😄 &nbsp; I enjoy projects and interesting ideas with fellow coders. Team comes first tech stack comes after!
 
 
 </div>
