@@ -1,4 +1,4 @@
-### OnSpot OnHold 👋
+### Hey there 👋
 
 <p align="center">
 <a href="https://github.com/Didelik">
@@ -23,7 +23,7 @@
 
 🔥 &nbsp; Proudly active in supportive programming community.<br>
 
-🚀 &nbsp; Working on Real World Applications using Flutter ( Dart ).<br>
+🚀 &nbsp; Working on Real World Application using Flutter ( Dart ).<br>
 
 💻 &nbsp; Experience with Linux system administration and dev-ops concepts.<br>
 
