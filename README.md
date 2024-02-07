@@ -23,7 +23,7 @@
 
 🔥 &nbsp; Proudly active in supportive programming community.<br>
 
-🚀 &nbsp; Working on Real World Application using React & Flutter.<br>
+🚀 &nbsp; Working on Real World Websites and Applications using React & Flutter.<br>
 
 💻 &nbsp; Experience with Linux system administration and dev-ops concepts.<br>
 
