@@ -64,7 +64,7 @@
   <img src="https://img.shields.io/badge/Redux-blue?style=for-the-badge&logo=redux"/>
 
    <h3>Backend Operations</h3>
-  <img src="https://img.shields.io/badge/Supabase-lime?style=for-the-badge&logo=supabase"/>
+  <img src="https://img.shields.io/badge/Supabase-00885e?style=for-the-badge&logo=supabase"/>
 </div>
 
 <img src="https://www.animatedimages.org/data/media/562/animated-line-image-0184.gif" width="1920" />
