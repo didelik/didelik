@@ -47,6 +47,7 @@
 
 # Skills? <img src='https://user-images.githubusercontent.com/74038190/206662607-d9e7591e-bbf9-42f9-9386-29efc927bc16.gif' width="40"> 
 <div align="center">
+    <img src="https://img.shields.io/badge/with%20a%20logo-grey?style=for-the-badge&logo=redux"/>
     <img src="https://shields.io/badge/react-black?logo=react&style=for-the-badge"/>
   <img src="https://img.shields.io/badge/GIT-E44C30?style=for-the-badge&logo=git&logoColor=white"/>
   <img src="https://img.shields.io/badge/JavaScript-323330?style=for-the-badge&logo=javascript&logoColor=F7DF1E"/>
